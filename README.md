@@ -18,3 +18,25 @@ Es una clase cuya finalidad es ofrecer una funcionalidad que pueda ser reutiliza
 - Te salva tiempo y dinero al tener la opción de reutilizar código.
 - Tener un código más sencillo de mantener y editar.
 - Modularizar nuestros proyectos de una forma lógica y sencilla.
+
+## Metodologías para estructurar código 
+
+- ### ¿Qué son?
+Sistemas preestablecidos formales y bien documentados, que te ayudan a escribir y organizar código mantenible y escalable en sistemas grandes y complejos.
+
+- ### Ventajas
+  Evitar redundancia al momento de crear componentes escalables y reutilizables.
+
+  Evitar el mal uso de propiedades como !important.
+
+  Solucionar problemas de manejo en sistemas grandes y complejos.
+
+- ### Ejemplos metodologías \
+* BEM
+* SMACCSS
+* Atomic CSS
+* OOCSS
+
+#### [Estado pre procesadores CSS](https://2019.stateofcss.com/technologies/pre-post-processors/)
+
+## [Estado CSS](https://2019.stateofcss.com/)
