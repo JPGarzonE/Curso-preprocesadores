@@ -39,4 +39,24 @@ Sistemas preestablecidos formales y bien documentados, que te ayudan a escribir 
 
 #### [Estado pre procesadores CSS](https://2019.stateofcss.com/technologies/pre-post-processors/)
 
+## BEM
+Bloques, Elementos y Modificadores
+
+Es una metodología de trabajo creada por Yandex para proyectos web grandes o pequeños.
+El objetivo de BEM es dividir lógicamente las piezas de las que se compone una web.
+
+- Bloque.
+- Elemento.
+- Modificador.
+
+- ### Sintaxis:
+  - .bloque{}
+  - .bloque__elemento{}
+  - .bloque--modificador{}
+
+- ### Ventajas:
+  - Menos repeticiones.
+  - Independencia Absoluta.
+  - Mejoría en la herencia múltiple.
+
 ## [Estado CSS](https://2019.stateofcss.com/)
