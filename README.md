@@ -58,5 +58,19 @@ El objetivo de BEM es dividir lógicamente las piezas de las que se compone una 
   - Menos repeticiones.
   - Independencia Absoluta.
   - Mejoría en la herencia múltiple.
+  
+## Guías para creación y mantenimiento de código
+```
+"Tener un código que luzca como si solo una persona lo haya escrito"
+```
+
+- ### Recomendaciones 
+  - Ser concistentes con la identación.
+  - Concistencia con espacios, corchetes, puntos y comas.
+  - Concistencia de números, de selectores y divisiones.
+  - Agrupaciones de propiedades.
+  - Uso de ID's y clases.
+
+#### [Guía de código de platzi games](https://static.platzi.com/media/public/uploads/guia-de-codigo-platzi-games_f19c63bf-af70-4aeb-8ac1-3e905bc140ab.pdf)
 
 ## [Estado CSS](https://2019.stateofcss.com/)
