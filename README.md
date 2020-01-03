@@ -73,4 +73,8 @@ El objetivo de BEM es dividir lógicamente las piezas de las que se compone una 
 
 #### [Guía de código de platzi games](https://static.platzi.com/media/public/uploads/guia-de-codigo-platzi-games_f19c63bf-af70-4aeb-8ac1-3e905bc140ab.pdf)
 
+## Pug
+Pug es un generador de templates implementado con javascript para Node.js y navegadores.
+
+
 ## [Estado CSS](https://2019.stateofcss.com/)
